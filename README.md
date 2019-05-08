@@ -22,7 +22,6 @@ what was used
 
 -The user will be able to click to animate and click to make GIHPY image static using GIHPY API> 
 
--GIF displays image info.
 
 
 
