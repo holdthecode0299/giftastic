@@ -1,0 +1,19 @@
+
+
+#mainsearch {
+  height: 60%;
+  background:orange; 
+  padding: 25px;
+  margin: 100px 300px;
+  width: 60%;
+
+}
+
+label {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 24px;
+}
+
+#gif-container{
+  margin:0px 450px;
+}
