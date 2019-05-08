@@ -1,6 +1,6 @@
 # Giftastic- 
 
-Link github.io
+https://holdthecode0299.github.io/giftastic/
 
 what was used 
 -CSS
@@ -25,5 +25,4 @@ what was used
 -GIF displays image info.
 
 
-< screenshot page >
 
